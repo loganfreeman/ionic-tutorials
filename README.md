@@ -4,3 +4,6 @@
 
 # module
 - [Lazy Loading a Module](https://angular-2-training-book.rangle.io/handout/modules/lazy-loading-module.html)
+
+# Routing
+- [Angular - Routing](https://angular.io/tutorial/toh-pt5)
