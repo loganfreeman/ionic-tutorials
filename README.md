@@ -7,3 +7,6 @@
 
 # Routing
 - [Angular - Routing](https://angular.io/tutorial/toh-pt5)
+
+# App
+- [alarm-app-using-ionic](http://pranavadurai.blogspot.com/2016/02/alarm-app-using-ionic.html)
